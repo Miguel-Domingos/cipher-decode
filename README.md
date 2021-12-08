@@ -1,4 +1,4 @@
-# Caeser Cipher Base Encode and Decode
+# Caeser Cipher Based [ Encode and Decode ]
 #### Simple Script to Encode and Decode Caeser cipher base with search method
 
 ##### Usage: 

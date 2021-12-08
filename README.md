@@ -1,5 +1,5 @@
 # Caeser Cipher Based [ Encode and Decode ]
-#### Simple Script to Encode and Decode Caeser cipher base with search method
+#### Simple Script to Encode and Decode Caeser cipher based with search method
 
 ##### Usage: 
     python3 cipher-decode.py -i "message to encode or decode" -r <rotate number ( Optional )> -s "search text into message"( Optional )
